@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://mapowonjosamgyetang.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mapowonjosamgyetang.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mapowonjosamgyetang.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mapowonjosamgyetang.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mapowonjosamgyetang.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mapowonjosamgyetang.com/"/>
+  </url>
+
+  <url>
+    <loc>https://mapowonjosamgyetang.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mapowonjosamgyetang.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mapowonjosamgyetang.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mapowonjosamgyetang.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mapowonjosamgyetang.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mapowonjosamgyetang.com/"/>
+  </url>
+
+  <url>
+    <loc>https://mapowonjosamgyetang.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mapowonjosamgyetang.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mapowonjosamgyetang.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mapowonjosamgyetang.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mapowonjosamgyetang.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mapowonjosamgyetang.com/"/>
+  </url>
+
+  <url>
+    <loc>https://mapowonjosamgyetang.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mapowonjosamgyetang.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mapowonjosamgyetang.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mapowonjosamgyetang.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://mapowonjosamgyetang.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mapowonjosamgyetang.com/"/>
+  </url>
+
+</urlset>
