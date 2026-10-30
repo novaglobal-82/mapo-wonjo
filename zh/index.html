@@ -706,7 +706,7 @@
   <h2 class="disp">预约与咨询</h2>
   <div class="action-grid">
     <!-- 네이버 예약 -->
-    <a href="https://map.naver.com/p/entry/place/38275320?c=15.00,0,0,0,dh&amp;isCorrectAnswer=true&amp;placePath=%2Fbooking%3FfromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202610141534%26locale%3Dko%26svcName%3Dmap_pcv5" target="_blank" rel="noopener" class="btn outline-light" onclick="gtag('event','reservation_click',{method:'naver'})">Naver预约</a>
+    <a href="https://map.naver.com/p/entry/place/38275320?placePath=%2Fbooking" target="_blank" rel="noopener" class="btn outline-light" onclick="gtag('event','reservation_click',{method:'naver'})">Naver预约</a>
     <!-- 전화하기는 항상 유지 -->
     <a href="tel:+82-2-719-4301" class="btn outline-light" onclick="gtag('event','phone_click')">致电我们</a>
   </div>
@@ -739,7 +739,7 @@
   <div class="reserve-dropdown">
     <div class="reserve-menu" id="reserveMenu">
       <!-- 네이버 예약 -->
-      <a href="https://map.naver.com/p/entry/place/38275320?c=15.00,0,0,0,dh&amp;isCorrectAnswer=true&amp;placePath=%2Fbooking%3FfromPanelNum%3D1%26additionalHeight%3D76%26timestamp%3D202610141534%26locale%3Dko%26svcName%3Dmap_pcv5" target="_blank" rel="noopener" onclick="gtag('event','reservation_click',{method:'naver',position:'floating'})">Naver</a>
+      <a href="https://map.naver.com/p/entry/place/38275320?placePath=%2Fbooking" target="_blank" rel="noopener" onclick="gtag('event','reservation_click',{method:'naver',position:'floating'})">Naver</a>
     </div>
     <a href="javascript:void(0)" class="floating-btn reserve" onclick="toggleReserveMenu()">立即预约</a>
   </div>
